@@ -1,3 +1,3 @@
 ### Olá, Eu sou o Renan Mathiuzzo
 
-- 🌱 Cursando ciencia da computação
+- 🌱 Cursando Ciência da Computação
