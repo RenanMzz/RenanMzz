@@ -1,4 +1,4 @@
-### Olá! Eu sou o Renan Mathiuzzo
+### Olá! Eu sou Renan Mathiuzzo
 
 - 🌱 Estudando Ciência da computação
 - 💼 Trabalho com front-end
