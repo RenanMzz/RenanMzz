@@ -43,8 +43,9 @@
 
 <div align="center">
   <a href="https://github.com/RenanMzz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMzz&layout=compact&langs_count=7&theme=dark&cache_seconds=0"/>
+    <img src="https://img.shields.io/github/stars/RenanMzz?style=for-the-badge&label=Stars&color=181717" alt="Stars" height="30">
+    <img src="https://img.shields.io/github/followers/RenanMzz?style=for-the-badge&label=Followers&color=181717" alt="Followers" height="30">
+    <img src="https://img.shields.io/github/commits-since/RenanMzz/RenanMzz/latest?style=for-the-badge&label=Commits" alt="Commits" height="30">
   </a>
 </div>
 
