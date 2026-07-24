@@ -100,4 +100,4 @@
 
 ## 🐍 Contribuições
 
-![Pac‑Man animation](https://github.com/RenanMzz/RenanMzz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RenanMzz/RenanMzz/blob/output/github-contribution-grid-snake.svg)
