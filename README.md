@@ -42,10 +42,12 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/RenanMzz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMzz&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMzz&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanMzz&theme=dark" />
 </div>
 
 ---
