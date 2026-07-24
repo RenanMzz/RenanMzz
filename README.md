@@ -13,7 +13,6 @@
 - 🐍 Utilizo **Python** e **SQL** para extração, tratamento e análise de dados.
 - 🌱 Formando em **Ciência da Computação** pela Universidade Anhembi Morumbi (conclusão em 2025).
 - 🎯 Meu foco: **melhoria contínua**, **redução de retrabalho** e **eficiência operacional**.
-- 💬 Pergunte-me sobre: Power BI, Excel, SQL, Python, automação de processos, indicadores de desempenho (KPIs).
 
 ---
 
