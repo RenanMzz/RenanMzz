@@ -39,6 +39,7 @@
 
 ---
 
+<!--
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
@@ -53,8 +54,6 @@
 
 ## 📌 Projetos em destaque
 
-(Adicione aqui os repositórios mais relevantes, por exemplo:)
-
 - **[Dashboard de Indicadores - Power BI]** – Exemplo de dashboard para monitoramento de quebras e inventário.
 - **[Automação de Planilhas - VBA]** – Scripts para consolidar dados e gerar relatórios automáticos.
 - **[Análise de Dados com Python]** – Notebooks com tratamento e visualização de dados operacionais.
@@ -63,6 +62,7 @@
 > 🔗 Visite meu [portfólio no GitHub](https://github.com/RenanMzz) para ver todos os projetos.
 
 ---
+-->
 
 ## 💼 Experiência profissional (resumo)
 
