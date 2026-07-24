@@ -8,7 +8,7 @@
 
 ## 🧰 Sobre mim
 
-- 🔭 Atualmente sou **Analista de Planejamento Jr** no **Assai Atacadista**, atuando com indicadores de quebras, inventário, recebimento e expedição.
+- 🔭 Atualmente sou **Analista de Planejamento Jr**, atuando com indicadores de quebras, inventário, recebimento e expedição.
 - 📊 Crio soluções em **Power BI** e **Excel avançado** (Power Query, VBA, Modelo de Dados) para apoiar a tomada de decisão.
 - 🐍 Utilizo **Python** e **SQL** para extração, tratamento e análise de dados.
 - 🌱 Formando em **Ciência da Computação** pela Universidade Anhembi Morumbi (conclusão em 2025).
