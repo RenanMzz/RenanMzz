@@ -18,22 +18,23 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| Área                 | Tecnologias                                                                 |
-|----------------------|-----------------------------------------------------------------------------|
-| **Análise de Dados** | Excel (Power Query, VBA), Power BI, Python (Pandas, Matplotlib), SQL        |
-| **Front-end**        | JavaScript, React.js, HTML5, CSS3                                           |
-| **Controle de versão**| Git, GitHub                                                                |
-| **Metodologias**     | PDCA, FEFO, Layout de armazenagem, Automação de processos                   |
+| Área                  | Tecnologias                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Análise de Dados**  | Excel (Power Query, VBA), Power BI, Python (Pandas), SQL                    |
+| **Front-end**         | JavaScript, React.js, HTML5, CSS3                                           |
+| **Controle de versão**| Git, GitHub                                                                 |
+| **Metodologias**      | PDCA, FEFO, Layout de armazenagem, Automação de processos                   |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerBI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Excel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br><br>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" height="40">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="40">
 </div>
 
 ---
